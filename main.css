@@ -1,0 +1,76 @@
+fieldset {
+    background-color: rgb(208, 226, 236);
+    margin-right: 20%;
+    margin-left: 20%;
+    
+
+
+}
+legend{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(42, 50, 165);
+}
+legend:hover {
+    color: burlywood;
+    border-color: black;
+    background-color: rgb(212, 155, 155);
+
+}
+h1 {
+    text-align: center;
+    color: white;
+    padding: 10px;
+    color: brown;
+}
+.container {
+    background-color: rgb(212, 155, 155);
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+    border-style: double;
+    margin-top: 10%;
+    border: 5px solid brown;
+    border-radius: 5px;
+    
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+.item, a {
+    color: rgb(172, 75, 11);
+    text-decoration: none;
+    
+
+}
+
+.item:hover, a:hover {
+    color: rgba(255, 97, 24, 0.541);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border-color: black;
+    background-color: burlywood;
+}
+img  {
+    width: 50%;
+    height: 60%;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    justify-content: center;
+    align-content: center;
+    
+
+}
+
+
